@@ -1,3 +1,8 @@
 Haii ini adalah branch development dari Git :)
 
 Haloo aku adalah kontributor
+
+mencoba squash and merge di github
+
+metode untuk menggabungkan beberapa commit menjadi satu commit
+markicob guys:)

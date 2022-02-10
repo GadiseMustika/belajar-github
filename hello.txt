@@ -1,1 +1,1 @@
-Hallo ini adalah branch development dari Git :)
+Hallo ini adalah branch master dari Git :)

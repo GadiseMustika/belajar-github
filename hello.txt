@@ -1,5 +1,3 @@
 Haii ini adalah branch development dari Git :)
 
 Haloo aku adalah kontributor
-
-Hallo saya melakukan forking dari repo kamu

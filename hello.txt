@@ -2,5 +2,6 @@ Haii ini adalah branch development dari Git :)
 
 Haloo aku adalah kontributor
 
+
 code reviews
 merupakan pengecekan pada kode yang dibuat oleh kontributor yang bertujuan agar membuat kode lebih efesien dan tidak menimbulkan bug

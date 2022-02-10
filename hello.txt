@@ -2,6 +2,10 @@ Haii ini adalah branch development dari Git :)
 
 Haloo aku adalah kontributor
 
+squash merge
+adalah penggabungan beberapa commit menjadi satu commit
 
 code reviews
 merupakan pengecekan pada kode yang dibuat oleh kontributor yang bertujuan agar membuat kode lebih efesien dan tidak menimbulkan bug
+
+markicob
